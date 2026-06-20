@@ -1,0 +1,81 @@
+"""
+TASK 1 - Web Scraping / Data Collection
+Source: World Bank Open Data API (https://api.worldbank.org)
+This is a real, public, free API - no key required.
+
+Indicators pulled:
+  SE.ADT.LITR.FE.ZS  -> Literacy rate, adult female (% ages 15+)
+  SE.ADT.LITR.MA.ZS  -> Literacy rate, adult male (% ages 15+)
+  SE.TER.ENRR.FE     -> School enrollment, tertiary, female (% gross)
+  SE.TER.ENRR.MA     -> School enrollment, tertiary, male (% gross)
+
+Run this on a machine with internet access (it won't run in this sandbox,
+which only has access to package registries, not worldbank.org).
+"""
+
+import requests
+import pandas as pd
+import time
+
+INDICATORS = {
+    "SE.ADT.LITR.FE.ZS": "literacy_rate_female",
+    "SE.ADT.LITR.MA.ZS": "literacy_rate_male",
+    "SE.TER.ENRR.FE": "tertiary_enroll_female",
+    "SE.TER.ENRR.MA": "tertiary_enroll_male",
+}
+
+# A mix of countries across income levels / regions for variety
+COUNTRIES = "USA;IND;NGA;BRA;CHN;DEU;EGY;PAK;KEN;JPN;FRA;ZAF;BGD;MEX;SAU"
+
+BASE_URL = "https://api.worldbank.org/v2/country/{countries}/indicator/{indicator}"
+
+def fetch_indicator(indicator_code, countries=COUNTRIES, start=2000, end=2023):
+    all_rows = []
+    page = 1
+    while True:
+        url = BASE_URL.format(countries=countries, indicator=indicator_code)
+        params = {
+            "format": "json",
+            "date": f"{start}:{end}",
+            "per_page": 1000,
+            "page": page,
+        }
+        resp = requests.get(url, params=params, timeout=30)
+        resp.raise_for_status()
+        meta, data = resp.json()
+        if not data:
+            break
+        for row in data:
+            if row["value"] is not None:
+                all_rows.append({
+                    "country": row["country"]["value"],
+                    "country_code": row["countryiso3code"],
+                    "year": int(row["date"]),
+                    "indicator": indicator_code,
+                    "value": row["value"],
+                })
+        if page >= meta.get("pages", 1):
+            break
+        page += 1
+        time.sleep(0.2)  # be polite
+    return all_rows
+
+def main():
+    all_data = []
+    for code in INDICATORS:
+        print(f"Fetching {code} ...")
+        all_data.extend(fetch_indicator(code))
+
+    df = pd.DataFrame(all_data)
+    # pivot so each indicator becomes a column
+    df_wide = df.pivot_table(
+        index=["country", "country_code", "year"],
+        columns="indicator",
+        values="value",
+    ).reset_index()
+    df_wide = df_wide.rename(columns=INDICATORS)
+    df_wide.to_csv("women_education_worldbank.csv", index=False)
+    print(f"Saved {len(df_wide)} rows to women_education_worldbank.csv")
+
+if __name__ == "__main__":
+    main()

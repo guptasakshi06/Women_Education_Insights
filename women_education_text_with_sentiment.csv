@@ -1,0 +1,301 @@
+id,text,source,date,true_bucket_for_reference,sentiment_label,sentiment_score
+184,Great initiative: mentorship program pairs young women with women scientists.,news_site_A,2018-01-05,positive,positive,0.6249
+180,Inspiring to see more girls enrolling in engineering programs this year.,news_site_B,2018-01-06,positive,positive,0.4215
+54,Local school's all-girls coding club just won a national hackathon.,blog_commentary,2018-01-08,positive,positive,0.5719
+204,Report finds harassment remains a major barrier for women in academia.,news_site_A,2018-01-12,negative,negative,-0.6478
+69,University publishes data on male and female graduate completion rates.,news_site_B,2018-01-17,neutral,neutral,0.0
+250,New study examines trends in women's tertiary education across regions.,blog_commentary,2018-01-25,neutral,neutral,0.0
+150,New study examines trends in women's tertiary education across regions.,forum_discussion,2018-02-18,neutral,neutral,0.0
+109,University publishes data on male and female graduate completion rates.,news_site_A,2018-02-28,neutral,neutral,0.0
+95,Conference will address gender representation in scientific publishing.,news_site_A,2018-03-10,neutral,neutral,0.0
+88,Lack of childcare support is pushing women out of postgraduate research.,blog_commentary,2018-03-16,negative,positive,0.1027
+87,This university just opened a new center supporting women in physics.,forum_discussion,2018-03-21,positive,positive,0.4404
+295,Women in STEM still face significant pay gaps despite equal qualifications.,news_site_A,2018-04-02,negative,positive,0.1027
+22,Survey collects data on student demographics across engineering departments.,blog_commentary,2018-04-03,neutral,neutral,0.0
+50,Inspiring to see more girls enrolling in engineering programs this year.,forum_discussion,2018-04-25,positive,positive,0.4215
+210,Local school's all-girls coding club just won a national hackathon.,blog_commentary,2018-05-05,positive,positive,0.5719
+241,Studies show women-led research teams are producing groundbreaking results.,news_site_B,2018-06-06,positive,neutral,0.0
+264,Report shows literacy rates among women have improved significantly over the decade.,forum_discussion,2018-06-06,positive,positive,0.4767
+16,Annual gender parity index released for primary and secondary education.,news_site_A,2018-06-10,neutral,neutral,0.0
+211,Proud to see the gender gap in medical school admissions finally closing.,blog_commentary,2018-06-16,positive,positive,0.4767
+214,More countries are investing in girls' secondary education with strong results.,forum_discussion,2018-06-28,positive,positive,0.5106
+123,University publishes data on male and female graduate completion rates.,blog_commentary,2018-06-29,neutral,neutral,0.0
+112,Dropout rates for girls in secondary school remain stubbornly high in some areas.,blog_commentary,2018-07-05,negative,negative,-0.34
+6,Great initiative: mentorship program pairs young women with women scientists.,news_site_B,2018-07-10,positive,positive,0.6249
+133,Studies show women-led research teams are producing groundbreaking results.,news_site_B,2018-07-11,positive,neutral,0.0
+153,Conference will address gender representation in scientific publishing.,forum_discussion,2018-07-17,neutral,neutral,0.0
+127,Local school's all-girls coding club just won a national hackathon.,news_site_A,2018-07-27,positive,positive,0.5719
+36,This university just opened a new center supporting women in physics.,news_site_A,2018-08-04,positive,positive,0.4404
+72,Panel discussion scheduled on women's participation in research fields.,news_site_B,2018-08-21,neutral,neutral,0.0
+4,Proud to see the gender gap in medical school admissions finally closing.,news_site_A,2018-08-31,positive,positive,0.4767
+20,Report finds harassment remains a major barrier for women in academia.,forum_discussion,2018-09-06,negative,negative,-0.6478
+212,New scholarship program is helping women in rural areas access higher education.,forum_discussion,2018-09-11,positive,positive,0.296
+5,Government agency publishes statistics on female enrollment by country.,blog_commentary,2018-09-11,neutral,neutral,0.0
+9,Report shows literacy rates among women have improved significantly over the decade.,news_site_A,2018-09-15,positive,positive,0.4767
+216,More countries are investing in girls' secondary education with strong results.,news_site_A,2018-09-25,positive,positive,0.5106
+278,Why are women still underrepresented in senior faculty positions?,forum_discussion,2018-09-26,negative,neutral,0.0
+192,Workshop held to discuss curriculum design for STEM outreach programs.,news_site_B,2018-10-04,neutral,positive,0.2732
+3,Proud to see the gender gap in medical school admissions finally closing.,news_site_B,2018-10-14,positive,positive,0.4767
+14,Conference will address gender representation in scientific publishing.,news_site_A,2018-10-27,neutral,neutral,0.0
+164,Female enrollment in STEM PhDs hits a record high this semester.,news_site_B,2018-11-04,positive,neutral,0.0
+152,Government agency publishes statistics on female enrollment by country.,forum_discussion,2018-11-09,neutral,neutral,0.0
+243,Studies show women-led research teams are producing groundbreaking results.,news_site_B,2018-11-16,positive,neutral,0.0
+222,Government agency publishes statistics on female enrollment by country.,news_site_B,2018-11-20,neutral,neutral,0.0
+274,Workshop held to discuss curriculum design for STEM outreach programs.,news_site_A,2018-11-24,neutral,positive,0.2732
+25,Local school's all-girls coding club just won a national hackathon.,news_site_B,2018-11-27,positive,positive,0.5719
+273,Female enrollment in STEM PhDs hits a record high this semester.,forum_discussion,2018-12-03,positive,neutral,0.0
+55,Survey collects data on student demographics across engineering departments.,news_site_A,2018-12-14,neutral,neutral,0.0
+41,Dropout rates for girls in secondary school remain stubbornly high in some areas.,news_site_B,2018-12-18,negative,negative,-0.34
+259,Proud to see the gender gap in medical school admissions finally closing.,news_site_B,2018-12-20,positive,positive,0.4767
+57,Critics argue diversity hiring in STEM ignores merit-based selection.,blog_commentary,2018-12-22,negative,negative,-0.6908
+167,Why are women still underrepresented in senior faculty positions?,news_site_B,2019-01-07,negative,neutral,0.0
+118,Women in STEM still face significant pay gaps despite equal qualifications.,forum_discussion,2019-01-08,negative,positive,0.1027
+1,Report shows literacy rates among women have improved significantly over the decade.,forum_discussion,2019-01-21,positive,positive,0.4767
+73,Inspiring to see more girls enrolling in engineering programs this year.,blog_commentary,2019-02-05,positive,positive,0.4215
+37,Female enrollment in STEM PhDs hits a record high this semester.,forum_discussion,2019-02-20,positive,neutral,0.0
+8,Funding cuts disproportionately affect girls' education programs in the region.,news_site_B,2019-02-27,negative,negative,-0.296
+90,Great initiative: mentorship program pairs young women with women scientists.,news_site_A,2019-03-06,positive,positive,0.6249
+225,Proud to see the gender gap in medical school admissions finally closing.,news_site_A,2019-03-07,positive,positive,0.4767
+239,Ministry releases annual report on gender enrollment statistics in universities.,forum_discussion,2019-03-10,neutral,neutral,0.0
+105,Local school's all-girls coding club just won a national hackathon.,blog_commentary,2019-03-12,positive,positive,0.5719
+270,Annual gender parity index released for primary and secondary education.,news_site_A,2019-03-15,neutral,neutral,0.0
+179,Report shows literacy rates among women have improved significantly over the decade.,blog_commentary,2019-03-23,positive,positive,0.4767
+178,New study examines trends in women's tertiary education across regions.,news_site_B,2019-03-23,neutral,neutral,0.0
+276,Government agency publishes statistics on female enrollment by country.,news_site_B,2019-03-25,neutral,neutral,0.0
+200,Critics argue diversity hiring in STEM ignores merit-based selection.,news_site_A,2019-04-09,negative,negative,-0.6908
+251,Annual gender parity index released for primary and secondary education.,news_site_A,2019-04-11,neutral,neutral,0.0
+285,Studies show women-led research teams are producing groundbreaking results.,news_site_A,2019-04-17,positive,neutral,0.0
+23,More countries are investing in girls' secondary education with strong results.,blog_commentary,2019-04-25,positive,positive,0.5106
+7,Female enrollment in STEM PhDs hits a record high this semester.,forum_discussion,2019-04-28,positive,neutral,0.0
+138,Lack of childcare support is pushing women out of postgraduate research.,news_site_B,2019-05-01,negative,positive,0.1027
+70,Local school's all-girls coding club just won a national hackathon.,news_site_A,2019-05-08,positive,positive,0.5719
+81,Studies show women-led research teams are producing groundbreaking results.,news_site_B,2019-05-17,positive,neutral,0.0
+32,Critics argue diversity hiring in STEM ignores merit-based selection.,news_site_A,2019-05-30,negative,negative,-0.6908
+173,Critics argue diversity hiring in STEM ignores merit-based selection.,news_site_B,2019-05-31,negative,negative,-0.6908
+160,Workshop held to discuss curriculum design for STEM outreach programs.,news_site_B,2019-06-06,neutral,positive,0.2732
+24,Studies show women-led research teams are producing groundbreaking results.,news_site_B,2019-06-14,positive,neutral,0.0
+61,Report shows literacy rates among women have improved significantly over the decade.,news_site_A,2019-06-21,positive,positive,0.4767
+135,Dropout rates for girls in secondary school remain stubbornly high in some areas.,news_site_A,2019-07-01,negative,negative,-0.34
+298,Tech companies criticized for slow progress on gender parity in hiring.,news_site_B,2019-07-02,negative,positive,0.0772
+275,Annual gender parity index released for primary and secondary education.,news_site_A,2019-07-12,neutral,neutral,0.0
+124,Workshop held to discuss curriculum design for STEM outreach programs.,news_site_A,2019-07-25,neutral,positive,0.2732
+142,New scholarship program is helping women in rural areas access higher education.,forum_discussion,2019-08-04,positive,positive,0.296
+198,More countries are investing in girls' secondary education with strong results.,blog_commentary,2019-08-05,positive,positive,0.5106
+253,Inspiring to see more girls enrolling in engineering programs this year.,blog_commentary,2019-08-07,positive,positive,0.4215
+82,Survey collects data on student demographics across engineering departments.,forum_discussion,2019-08-09,neutral,neutral,0.0
+288,This university just opened a new center supporting women in physics.,forum_discussion,2019-08-22,positive,positive,0.4404
+154,Studies show women-led research teams are producing groundbreaking results.,news_site_B,2019-09-02,positive,neutral,0.0
+292,New study examines trends in women's tertiary education across regions.,forum_discussion,2019-09-04,neutral,neutral,0.0
+122,Researchers compile decade-long dataset on global literacy by gender.,forum_discussion,2019-09-05,neutral,neutral,0.0
+220,Studies show women-led research teams are producing groundbreaking results.,news_site_B,2019-09-12,positive,neutral,0.0
+59,Ministry releases annual report on gender enrollment statistics in universities.,blog_commentary,2019-09-12,neutral,neutral,0.0
+245,Survey reveals many women scientists feel excluded from leadership roles.,news_site_A,2019-09-26,negative,negative,-0.34
+121,Report shows literacy rates among women have improved significantly over the decade.,blog_commentary,2019-09-28,positive,positive,0.4767
+262,Report shows literacy rates among women have improved significantly over the decade.,blog_commentary,2019-10-03,positive,positive,0.4767
+299,Local school's all-girls coding club just won a national hackathon.,news_site_B,2019-10-12,positive,positive,0.5719
+279,Dropout rates for girls in secondary school remain stubbornly high in some areas.,forum_discussion,2019-10-13,negative,negative,-0.34
+58,Report finds harassment remains a major barrier for women in academia.,news_site_B,2019-10-13,negative,negative,-0.6478
+255,Studies show women-led research teams are producing groundbreaking results.,news_site_B,2019-10-25,positive,neutral,0.0
+84,Local school's all-girls coding club just won a national hackathon.,news_site_B,2019-10-29,positive,positive,0.5719
+227,Lack of childcare support is pushing women out of postgraduate research.,news_site_B,2019-12-11,negative,positive,0.1027
+102,Report shows literacy rates among women have improved significantly over the decade.,forum_discussion,2019-12-30,positive,positive,0.4767
+91,Inspiring to see more girls enrolling in engineering programs this year.,forum_discussion,2020-01-14,positive,positive,0.4215
+30,More countries are investing in girls' secondary education with strong results.,forum_discussion,2020-01-17,positive,positive,0.5106
+94,Inspiring to see more girls enrolling in engineering programs this year.,blog_commentary,2020-01-21,positive,positive,0.4215
+199,Inspiring to see more girls enrolling in engineering programs this year.,blog_commentary,2020-01-25,positive,positive,0.4215
+231,Great initiative: mentorship program pairs young women with women scientists.,news_site_B,2020-01-31,positive,positive,0.6249
+232,Studies show women-led research teams are producing groundbreaking results.,forum_discussion,2020-02-11,positive,neutral,0.0
+104,Report shows literacy rates among women have improved significantly over the decade.,blog_commentary,2020-02-16,positive,positive,0.4767
+201,Survey collects data on student demographics across engineering departments.,news_site_B,2020-02-21,neutral,neutral,0.0
+209,Lack of childcare support is pushing women out of postgraduate research.,forum_discussion,2020-03-01,negative,positive,0.1027
+237,Great initiative: mentorship program pairs young women with women scientists.,news_site_A,2020-03-06,positive,positive,0.6249
+48,Tech companies criticized for slow progress on gender parity in hiring.,news_site_B,2020-03-10,negative,positive,0.0772
+208,Local school's all-girls coding club just won a national hackathon.,forum_discussion,2020-03-12,positive,positive,0.5719
+249,Critics argue diversity hiring in STEM ignores merit-based selection.,blog_commentary,2020-03-18,negative,negative,-0.6908
+191,Proud to see the gender gap in medical school admissions finally closing.,news_site_A,2020-03-22,positive,positive,0.4767
+49,New study examines trends in women's tertiary education across regions.,blog_commentary,2020-03-29,neutral,neutral,0.0
+117,Some families still discourage daughters from pursuing higher education.,news_site_B,2020-04-03,negative,negative,-0.4215
+169,More countries are investing in girls' secondary education with strong results.,news_site_A,2020-04-07,positive,positive,0.5106
+157,Annual gender parity index released for primary and secondary education.,news_site_A,2020-04-13,neutral,neutral,0.0
+38,Report finds harassment remains a major barrier for women in academia.,blog_commentary,2020-05-01,negative,negative,-0.6478
+281,Local school's all-girls coding club just won a national hackathon.,forum_discussion,2020-05-03,positive,positive,0.5719
+226,New scholarship program is helping women in rural areas access higher education.,news_site_A,2020-05-03,positive,positive,0.296
+35,New scholarship program is helping women in rural areas access higher education.,blog_commentary,2020-05-05,positive,positive,0.296
+141,Annual gender parity index released for primary and secondary education.,news_site_B,2020-05-09,neutral,neutral,0.0
+63,Why are women still underrepresented in senior faculty positions?,news_site_A,2020-05-14,negative,neutral,0.0
+2,Some families still discourage daughters from pursuing higher education.,news_site_A,2020-05-29,negative,negative,-0.4215
+115,Studies show women-led research teams are producing groundbreaking results.,forum_discussion,2020-06-11,positive,neutral,0.0
+261,University publishes data on male and female graduate completion rates.,news_site_A,2020-06-12,neutral,neutral,0.0
+83,Researchers compile decade-long dataset on global literacy by gender.,news_site_A,2020-06-18,neutral,neutral,0.0
+165,Lack of childcare support is pushing women out of postgraduate research.,blog_commentary,2020-06-20,negative,positive,0.1027
+96,Panel discussion scheduled on women's participation in research fields.,news_site_A,2020-06-29,neutral,neutral,0.0
+47,Survey collects data on student demographics across engineering departments.,forum_discussion,2020-07-01,neutral,neutral,0.0
+297,Some families still discourage daughters from pursuing higher education.,blog_commentary,2020-07-07,negative,negative,-0.4215
+125,Government agency publishes statistics on female enrollment by country.,news_site_A,2020-07-30,neutral,neutral,0.0
+28,Annual gender parity index released for primary and secondary education.,news_site_B,2020-08-03,neutral,neutral,0.0
+235,Local school's all-girls coding club just won a national hackathon.,blog_commentary,2020-08-04,positive,positive,0.5719
+144,Survey collects data on student demographics across engineering departments.,blog_commentary,2020-08-05,neutral,neutral,0.0
+29,Female enrollment in STEM PhDs hits a record high this semester.,news_site_B,2020-08-08,positive,neutral,0.0
+131,Conference will address gender representation in scientific publishing.,news_site_B,2020-08-19,neutral,neutral,0.0
+228,Local school's all-girls coding club just won a national hackathon.,news_site_A,2020-08-20,positive,positive,0.5719
+12,Female enrollment in STEM PhDs hits a record high this semester.,news_site_A,2020-09-26,positive,neutral,0.0
+233,Studies show women-led research teams are producing groundbreaking results.,news_site_B,2020-10-04,positive,neutral,0.0
+263,Female enrollment in STEM PhDs hits a record high this semester.,news_site_B,2020-10-08,positive,neutral,0.0
+223,Female enrollment in STEM PhDs hits a record high this semester.,blog_commentary,2020-10-09,positive,neutral,0.0
+266,Dropout rates for girls in secondary school remain stubbornly high in some areas.,blog_commentary,2020-10-17,negative,negative,-0.34
+103,Inspiring to see more girls enrolling in engineering programs this year.,news_site_A,2020-10-22,positive,positive,0.4215
+218,Annual gender parity index released for primary and secondary education.,blog_commentary,2020-10-25,neutral,neutral,0.0
+230,Critics argue diversity hiring in STEM ignores merit-based selection.,forum_discussion,2020-11-06,negative,negative,-0.6908
+92,Annual gender parity index released for primary and secondary education.,blog_commentary,2020-11-25,neutral,neutral,0.0
+65,Survey collects data on student demographics across engineering departments.,blog_commentary,2020-11-28,neutral,neutral,0.0
+46,Panel discussion scheduled on women's participation in research fields.,forum_discussion,2020-12-05,neutral,neutral,0.0
+100,University publishes data on male and female graduate completion rates.,news_site_A,2020-12-08,neutral,neutral,0.0
+42,This university just opened a new center supporting women in physics.,blog_commentary,2020-12-20,positive,positive,0.4404
+194,Great initiative: mentorship program pairs young women with women scientists.,forum_discussion,2020-12-21,positive,positive,0.6249
+136,Lack of childcare support is pushing women out of postgraduate research.,news_site_A,2021-01-05,negative,positive,0.1027
+19,New scholarship program is helping women in rural areas access higher education.,blog_commentary,2021-01-10,positive,positive,0.296
+246,Survey reveals many women scientists feel excluded from leadership roles.,blog_commentary,2021-01-15,negative,negative,-0.34
+215,Survey collects data on student demographics across engineering departments.,forum_discussion,2021-02-02,neutral,neutral,0.0
+26,Some families still discourage daughters from pursuing higher education.,news_site_B,2021-02-12,negative,negative,-0.4215
+27,Workshop held to discuss curriculum design for STEM outreach programs.,blog_commentary,2021-02-14,neutral,positive,0.2732
+185,Lack of childcare support is pushing women out of postgraduate research.,forum_discussion,2021-02-15,negative,positive,0.1027
+161,Critics argue diversity hiring in STEM ignores merit-based selection.,forum_discussion,2021-02-28,negative,negative,-0.6908
+21,Lack of childcare support is pushing women out of postgraduate research.,blog_commentary,2021-03-11,negative,positive,0.1027
+277,Local school's all-girls coding club just won a national hackathon.,news_site_B,2021-03-25,positive,positive,0.5719
+137,Lack of childcare support is pushing women out of postgraduate research.,forum_discussion,2021-04-06,negative,positive,0.1027
+236,Ministry releases annual report on gender enrollment statistics in universities.,news_site_B,2021-04-17,neutral,neutral,0.0
+229,Conference will address gender representation in scientific publishing.,forum_discussion,2021-04-18,neutral,neutral,0.0
+89,More countries are investing in girls' secondary education with strong results.,news_site_A,2021-04-25,positive,positive,0.5106
+290,Inspiring to see more girls enrolling in engineering programs this year.,forum_discussion,2021-04-28,positive,positive,0.4215
+257,New study examines trends in women's tertiary education across regions.,news_site_B,2021-05-20,neutral,neutral,0.0
+296,This university just opened a new center supporting women in physics.,news_site_A,2021-05-29,positive,positive,0.4404
+181,Inspiring to see more girls enrolling in engineering programs this year.,news_site_B,2021-05-29,positive,positive,0.4215
+120,Studies show women-led research teams are producing groundbreaking results.,news_site_B,2021-05-31,positive,neutral,0.0
+101,Studies show women-led research teams are producing groundbreaking results.,news_site_B,2021-06-03,positive,neutral,0.0
+193,Why are women still underrepresented in senior faculty positions?,news_site_B,2021-06-30,negative,neutral,0.0
+175,Survey reveals many women scientists feel excluded from leadership roles.,news_site_A,2021-07-02,negative,negative,-0.34
+291,More countries are investing in girls' secondary education with strong results.,news_site_A,2021-07-04,positive,positive,0.5106
+17,Government agency publishes statistics on female enrollment by country.,forum_discussion,2021-07-09,neutral,neutral,0.0
+282,Why are women still underrepresented in senior faculty positions?,forum_discussion,2021-07-30,negative,neutral,0.0
+168,New scholarship program is helping women in rural areas access higher education.,news_site_B,2021-07-31,positive,positive,0.296
+114,This university just opened a new center supporting women in physics.,news_site_B,2021-08-18,positive,positive,0.4404
+284,Dropout rates for girls in secondary school remain stubbornly high in some areas.,blog_commentary,2021-09-04,negative,negative,-0.34
+148,New scholarship program is helping women in rural areas access higher education.,news_site_A,2021-09-19,positive,positive,0.296
+134,Female enrollment in STEM PhDs hits a record high this semester.,forum_discussion,2021-09-20,positive,neutral,0.0
+190,Inspiring to see more girls enrolling in engineering programs this year.,blog_commentary,2021-10-16,positive,positive,0.4215
+213,New scholarship program is helping women in rural areas access higher education.,forum_discussion,2021-10-20,positive,positive,0.296
+240,This university just opened a new center supporting women in physics.,news_site_B,2021-10-24,positive,positive,0.4404
+15,Funding cuts disproportionately affect girls' education programs in the region.,news_site_B,2021-11-02,negative,negative,-0.296
+107,Why are women still underrepresented in senior faculty positions?,news_site_B,2021-11-04,negative,neutral,0.0
+51,Why are women still underrepresented in senior faculty positions?,blog_commentary,2021-11-11,negative,neutral,0.0
+39,Studies show women-led research teams are producing groundbreaking results.,forum_discussion,2021-11-23,positive,neutral,0.0
+66,Ministry releases annual report on gender enrollment statistics in universities.,blog_commentary,2021-12-20,neutral,neutral,0.0
+86,Great initiative: mentorship program pairs young women with women scientists.,forum_discussion,2021-12-31,positive,positive,0.6249
+248,More countries are investing in girls' secondary education with strong results.,blog_commentary,2022-01-03,positive,positive,0.5106
+126,Female enrollment in STEM PhDs hits a record high this semester.,news_site_A,2022-01-17,positive,neutral,0.0
+44,Report shows literacy rates among women have improved significantly over the decade.,news_site_B,2022-01-21,positive,positive,0.4767
+52,Survey collects data on student demographics across engineering departments.,news_site_A,2022-02-02,neutral,neutral,0.0
+271,Proud to see the gender gap in medical school admissions finally closing.,news_site_A,2022-02-05,positive,positive,0.4767
+254,More countries are investing in girls' secondary education with strong results.,news_site_B,2022-02-27,positive,positive,0.5106
+203,Proud to see the gender gap in medical school admissions finally closing.,forum_discussion,2022-03-12,positive,positive,0.4767
+171,New study examines trends in women's tertiary education across regions.,forum_discussion,2022-03-24,neutral,neutral,0.0
+206,Why are women still underrepresented in senior faculty positions?,forum_discussion,2022-04-07,negative,neutral,0.0
+116,This university just opened a new center supporting women in physics.,news_site_A,2022-04-13,positive,positive,0.4404
+170,Annual gender parity index released for primary and secondary education.,blog_commentary,2022-04-18,neutral,neutral,0.0
+256,Panel discussion scheduled on women's participation in research fields.,blog_commentary,2022-04-21,neutral,neutral,0.0
+174,Great initiative: mentorship program pairs young women with women scientists.,blog_commentary,2022-04-25,positive,positive,0.6249
+33,Some families still discourage daughters from pursuing higher education.,blog_commentary,2022-05-27,negative,negative,-0.4215
+151,New scholarship program is helping women in rural areas access higher education.,blog_commentary,2022-05-29,positive,positive,0.296
+106,Some families still discourage daughters from pursuing higher education.,forum_discussion,2022-05-30,negative,negative,-0.4215
+197,University publishes data on male and female graduate completion rates.,news_site_A,2022-05-31,neutral,neutral,0.0
+145,Researchers compile decade-long dataset on global literacy by gender.,news_site_A,2022-06-03,neutral,neutral,0.0
+287,Report shows literacy rates among women have improved significantly over the decade.,forum_discussion,2022-06-03,positive,positive,0.4767
+163,Report shows literacy rates among women have improved significantly over the decade.,news_site_A,2022-06-04,positive,positive,0.4767
+0,Female enrollment in STEM PhDs hits a record high this semester.,news_site_A,2022-06-06,positive,neutral,0.0
+149,This university just opened a new center supporting women in physics.,news_site_A,2022-06-20,positive,positive,0.4404
+119,University publishes data on male and female graduate completion rates.,news_site_A,2022-06-25,neutral,neutral,0.0
+283,Female enrollment in STEM PhDs hits a record high this semester.,news_site_B,2022-07-11,positive,neutral,0.0
+260,Why are women still underrepresented in senior faculty positions?,news_site_B,2022-07-15,negative,neutral,0.0
+108,University publishes data on male and female graduate completion rates.,forum_discussion,2022-07-16,neutral,neutral,0.0
+162,Studies show women-led research teams are producing groundbreaking results.,news_site_B,2022-07-22,positive,neutral,0.0
+242,Survey collects data on student demographics across engineering departments.,forum_discussion,2022-08-03,neutral,neutral,0.0
+187,Women in STEM still face significant pay gaps despite equal qualifications.,forum_discussion,2022-08-14,negative,positive,0.1027
+147,Female enrollment in STEM PhDs hits a record high this semester.,forum_discussion,2022-09-01,positive,neutral,0.0
+196,Researchers compile decade-long dataset on global literacy by gender.,news_site_A,2022-09-05,neutral,neutral,0.0
+293,Survey reveals many women scientists feel excluded from leadership roles.,forum_discussion,2022-09-07,negative,negative,-0.34
+98,Report shows literacy rates among women have improved significantly over the decade.,forum_discussion,2022-09-08,positive,positive,0.4767
+247,Conference will address gender representation in scientific publishing.,news_site_A,2022-09-08,neutral,neutral,0.0
+31,Female enrollment in STEM PhDs hits a record high this semester.,forum_discussion,2022-09-13,positive,neutral,0.0
+205,This university just opened a new center supporting women in physics.,news_site_A,2022-09-18,positive,positive,0.4404
+67,Some families still discourage daughters from pursuing higher education.,news_site_B,2022-09-19,negative,negative,-0.4215
+189,Great initiative: mentorship program pairs young women with women scientists.,forum_discussion,2022-10-05,positive,positive,0.6249
+166,Researchers compile decade-long dataset on global literacy by gender.,news_site_B,2022-10-17,neutral,neutral,0.0
+156,This university just opened a new center supporting women in physics.,news_site_A,2022-10-19,positive,positive,0.4404
+80,Great initiative: mentorship program pairs young women with women scientists.,news_site_A,2022-10-21,positive,positive,0.6249
+110,Dropout rates for girls in secondary school remain stubbornly high in some areas.,news_site_B,2022-10-31,negative,negative,-0.34
+207,Conference will address gender representation in scientific publishing.,news_site_A,2022-11-07,neutral,neutral,0.0
+182,Some families still discourage daughters from pursuing higher education.,news_site_A,2022-11-27,negative,negative,-0.4215
+79,Survey reveals many women scientists feel excluded from leadership roles.,forum_discussion,2022-12-16,negative,negative,-0.34
+289,New scholarship program is helping women in rural areas access higher education.,news_site_B,2022-12-17,positive,positive,0.296
+74,Report finds harassment remains a major barrier for women in academia.,forum_discussion,2022-12-21,negative,negative,-0.6478
+113,Studies show women-led research teams are producing groundbreaking results.,news_site_A,2023-01-01,positive,neutral,0.0
+267,This university just opened a new center supporting women in physics.,blog_commentary,2023-01-05,positive,positive,0.4404
+78,New study examines trends in women's tertiary education across regions.,news_site_B,2023-01-08,neutral,neutral,0.0
+238,Female enrollment in STEM PhDs hits a record high this semester.,forum_discussion,2023-01-14,positive,neutral,0.0
+146,Local school's all-girls coding club just won a national hackathon.,blog_commentary,2023-01-21,positive,positive,0.5719
+158,Proud to see the gender gap in medical school admissions finally closing.,news_site_B,2023-01-21,positive,positive,0.4767
+286,Critics argue diversity hiring in STEM ignores merit-based selection.,news_site_A,2023-01-30,negative,negative,-0.6908
+11,Researchers compile decade-long dataset on global literacy by gender.,forum_discussion,2023-01-31,neutral,neutral,0.0
+97,New scholarship program is helping women in rural areas access higher education.,news_site_A,2023-02-02,positive,positive,0.296
+265,More countries are investing in girls' secondary education with strong results.,forum_discussion,2023-02-10,positive,positive,0.5106
+280,Conference will address gender representation in scientific publishing.,news_site_B,2023-02-13,neutral,neutral,0.0
+269,More countries are investing in girls' secondary education with strong results.,news_site_B,2023-02-21,positive,positive,0.5106
+221,This university just opened a new center supporting women in physics.,forum_discussion,2023-03-03,positive,positive,0.4404
+252,Critics argue diversity hiring in STEM ignores merit-based selection.,news_site_B,2023-03-03,negative,negative,-0.6908
+234,Report finds harassment remains a major barrier for women in academia.,news_site_A,2023-03-16,negative,negative,-0.6478
+202,Some families still discourage daughters from pursuing higher education.,news_site_A,2023-03-31,negative,negative,-0.4215
+53,Great initiative: mentorship program pairs young women with women scientists.,news_site_B,2023-04-10,positive,positive,0.6249
+139,New scholarship program is helping women in rural areas access higher education.,news_site_A,2023-04-22,positive,positive,0.296
+176,Proud to see the gender gap in medical school admissions finally closing.,blog_commentary,2023-04-23,positive,positive,0.4767
+130,Report finds harassment remains a major barrier for women in academia.,forum_discussion,2023-04-25,negative,negative,-0.6478
+60,University publishes data on male and female graduate completion rates.,forum_discussion,2023-04-27,neutral,neutral,0.0
+217,Panel discussion scheduled on women's participation in research fields.,blog_commentary,2023-05-01,neutral,neutral,0.0
+186,Why are women still underrepresented in senior faculty positions?,news_site_B,2023-05-01,negative,neutral,0.0
+56,New study examines trends in women's tertiary education across regions.,news_site_B,2023-05-13,neutral,neutral,0.0
+34,New scholarship program is helping women in rural areas access higher education.,blog_commentary,2023-05-27,positive,positive,0.296
+224,Inspiring to see more girls enrolling in engineering programs this year.,forum_discussion,2023-05-28,positive,positive,0.4215
+258,Ministry releases annual report on gender enrollment statistics in universities.,forum_discussion,2023-06-01,neutral,neutral,0.0
+244,Local school's all-girls coding club just won a national hackathon.,news_site_A,2023-06-04,positive,positive,0.5719
+159,Dropout rates for girls in secondary school remain stubbornly high in some areas.,news_site_A,2023-06-12,negative,negative,-0.34
+40,Report finds harassment remains a major barrier for women in academia.,blog_commentary,2023-06-23,negative,negative,-0.6478
+294,University publishes data on male and female graduate completion rates.,news_site_B,2023-06-24,neutral,neutral,0.0
+128,Why are women still underrepresented in senior faculty positions?,forum_discussion,2023-06-28,negative,neutral,0.0
+268,Inspiring to see more girls enrolling in engineering programs this year.,blog_commentary,2023-06-28,positive,positive,0.4215
+132,Local school's all-girls coding club just won a national hackathon.,blog_commentary,2023-07-17,positive,positive,0.5719
+93,Report shows literacy rates among women have improved significantly over the decade.,forum_discussion,2023-07-19,positive,positive,0.4767
+13,Some families still discourage daughters from pursuing higher education.,forum_discussion,2023-07-21,negative,negative,-0.4215
+195,More countries are investing in girls' secondary education with strong results.,news_site_B,2023-07-24,positive,positive,0.5106
+219,University publishes data on male and female graduate completion rates.,news_site_B,2023-07-27,neutral,neutral,0.0
+18,Tech companies criticized for slow progress on gender parity in hiring.,blog_commentary,2023-07-28,negative,positive,0.0772
+172,Inspiring to see more girls enrolling in engineering programs this year.,forum_discussion,2023-08-03,positive,positive,0.4215
+188,Great initiative: mentorship program pairs young women with women scientists.,blog_commentary,2023-08-04,positive,positive,0.6249
+64,Studies show women-led research teams are producing groundbreaking results.,news_site_B,2023-08-15,positive,neutral,0.0
+129,New scholarship program is helping women in rural areas access higher education.,news_site_A,2023-08-23,positive,positive,0.296
+111,Proud to see the gender gap in medical school admissions finally closing.,forum_discussion,2023-09-04,positive,positive,0.4767
+140,New scholarship program is helping women in rural areas access higher education.,blog_commentary,2023-09-07,positive,positive,0.296
+76,Lack of childcare support is pushing women out of postgraduate research.,blog_commentary,2023-09-13,negative,positive,0.1027
+143,University publishes data on male and female graduate completion rates.,forum_discussion,2023-09-15,neutral,neutral,0.0
+272,Workshop held to discuss curriculum design for STEM outreach programs.,news_site_A,2023-09-21,neutral,positive,0.2732
+68,Some families still discourage daughters from pursuing higher education.,news_site_A,2023-09-23,negative,negative,-0.4215
+155,Annual gender parity index released for primary and secondary education.,forum_discussion,2023-09-24,neutral,neutral,0.0
+75,Some families still discourage daughters from pursuing higher education.,news_site_B,2023-09-29,negative,negative,-0.4215
+85,Proud to see the gender gap in medical school admissions finally closing.,blog_commentary,2023-10-13,positive,positive,0.4767
+43,University publishes data on male and female graduate completion rates.,news_site_A,2023-10-16,neutral,neutral,0.0
+77,Why are women still underrepresented in senior faculty positions?,forum_discussion,2023-11-14,negative,neutral,0.0
+183,Studies show women-led research teams are producing groundbreaking results.,news_site_B,2023-11-19,positive,neutral,0.0
+62,New scholarship program is helping women in rural areas access higher education.,news_site_B,2023-11-27,positive,positive,0.296
+99,Women in STEM still face significant pay gaps despite equal qualifications.,news_site_B,2023-11-29,negative,positive,0.1027
+177,Proud to see the gender gap in medical school admissions finally closing.,blog_commentary,2023-12-03,positive,positive,0.4767
+45,Women in STEM still face significant pay gaps despite equal qualifications.,forum_discussion,2023-12-04,negative,positive,0.1027
+71,Report shows literacy rates among women have improved significantly over the decade.,blog_commentary,2023-12-14,positive,positive,0.4767
+10,Lack of childcare support is pushing women out of postgraduate research.,blog_commentary,2023-12-18,negative,positive,0.1027
